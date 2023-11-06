@@ -1,5 +1,5 @@
 ---
-Title: Hobby
+Title: 
 Description: Page about my hobby
 ---
 
